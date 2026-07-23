@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there.
 
-<!--
-**tempusari/tempusari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a distinguished software engineer based in europe.
+Currently I am spending most of my time working on distributed systems, performance-critical infrastructure, low level code for specific hardware.
 
-Here are some ideas to get you started:
+## I prefer the following programming languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+Languages
+├── C++
+├── Rust
+└── Go
+```
+
+When I'm not writing code, I'm usually reading about computer systems, experimenting with new languages, or contributing to personal and open source projects.
+
+```text
+> "If you fix it yourself you dont have to wait for someone else to do it for you."
+```

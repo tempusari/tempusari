@@ -1,12 +1,13 @@
 Hi there.
 
 I'm a distinguished software engineer based in europe.
-Currently I am spending most of my time working on distributed systems, performance-critical infrastructure, low level code for specific hardware.
+Currently I am spending most of my time working on performance-critical infrastructure and low level code for specific hardware.
 
 ## I prefer the following programming languages
 
 ```text
 Languages
+├── C
 ├── C++
 ├── Rust
 └── Go
